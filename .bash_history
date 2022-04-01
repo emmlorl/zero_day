@@ -95,3 +95,29 @@ git pull
 clear
 git destroy
 exit
+ls
+rmdir 0x00-vagrant
+rm -r 0x00-vagrant
+rm -rf 0x00-vagrant
+ls
+git add .
+git commit -m'removed it'
+git push
+git config --global user.name "emmlorl"
+git config --global user.email "emmlorl@github.com"
+git config
+clear
+git status
+git push
+git init
+git remote
+git pull origin master
+git pull
+git branch --set-upstream-to=master/origin master
+git fetch
+ls
+git push -u
+ls
+cd
+cd -
+su
